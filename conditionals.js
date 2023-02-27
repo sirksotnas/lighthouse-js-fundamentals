@@ -1,6 +1,6 @@
 // conditional fundamentals
-const raining = false;
-const cold = false;
+let raining = false;
+let cold = false;
 if (raining) {
   console.log("Don't forget your umbrella!");
 }
